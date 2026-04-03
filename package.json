@@ -30,7 +30,7 @@
     "lerna-semantic-release": "^9.1.0",
     "mocha": "^6.0.2",
     "rimraf": "^2.6.3",
-    "semantic-release-cli": "^4.1.0",
+    "semantic-release-cli": "^5.4.6",
     "typescript": "^3.3.3333"
   },
   "dependencies": {
